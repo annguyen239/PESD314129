@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Windows\\TT Servo\\M3\\DCservo\\Visual C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|d:\\windows\\tt servo\\m3\\dcservo\\visual c#\\dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|solutionrelative:dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Windows\\TT Servo\\M3\\DCservo\\Visual C#\\DC\\Main.cs",
+              "RelativeDocumentMoniker": "DC\\Main.cs",
+              "ToolTip": "D:\\Windows\\TT Servo\\M3\\DCservo\\Visual C#\\DC\\Main.cs [Design]",
+              "RelativeToolTip": "DC\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T01:01:00.523Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
