@@ -270,7 +270,8 @@ unsigned char State1;
 
   /* USER CODE END EXTI3_IRQn 1 */
 }
-int PIDVel(float DesiredValue, float CurrentValue){
+
+int PID(float DesiredValue, float CurrentValue){ // General PID
 	static float err_p = 0;
 	static float ui_p = 0;
 	float err, up, ud, ui;
@@ -288,7 +289,8 @@ int PIDVel(float DesiredValue, float CurrentValue){
 		uout = LOLIM;
 	return uout;
 }
-int PIDVel_AntiWindup(float DesiredValue, float currentValue)
+
+int PID_AntiWindup(float DesiredValue, float currentValue)  //speed
 {
 	static float err_p=0;
 	static float ui_p = 0;
